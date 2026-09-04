@@ -1,17 +1,14 @@
-<h1 align="center">Hi , I'm Mohamed Taha</h1>
+<h1 align="center">Hi, I'm Mohamed Taha</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedtaha910" alt="mohamedtaha910" /></a> </p>
+- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <a href="https://twitter.com/mu7amedtaha" target="blank"><img src="https://img.shields.io/twitter/follow/mu7amedtaha?logo=twitter&style=for-the-badge" alt="mu7amedtaha" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://muhamedtaha-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://muhamedtaha-dev.vercel.app/)
 
 - 📫 How to reach me **mt164371@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/16Vr_Or2_QU1982m21MQhL-NiPz1JlrGA/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16Vr_Or2_QU1982m21MQhL-NiPz1JlrGA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +19,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedtaha910&show_icons=true&locale=en&layout=compact" alt="mohamedtaha910" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtaha910&show_icons=true&locale=en" alt="mohamedtaha910" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtaha910&" alt="mohamedtaha910" /></p>
